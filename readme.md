@@ -1,1 +1,1 @@
-[链接名称](https://www.baidu.com/)
+[百度](https://www.baidu.com/)
